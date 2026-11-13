@@ -50,7 +50,8 @@ Puis ouvrir <http://localhost:8080>.
 
 Le workflow `.github/workflows/deploy.yml` publie le site sur GitHub Pages à chaque push sur `main`.
 
-URL prévue : <https://casifox.github.io/willis-burger-chalon/>
+- **Site en ligne :** <https://casifox.github.io/willis-burger-chalon/>
+- **Dépôt :** <https://github.com/Casifox/willis-burger-chalon>
 
 ## Sources et date des informations
 
