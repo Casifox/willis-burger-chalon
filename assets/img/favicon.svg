@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Willi's Burger">
+  <rect width="64" height="64" rx="15" fill="#1b110c"/>
+  <circle cx="32" cy="34" r="23" fill="#e2402a" stroke="#f8e9cf" stroke-width="2"/>
+  <path d="M13 34h38" stroke="#f2b53c" stroke-width="1.6" stroke-dasharray="2 4" opacity=".65"/>
+  <text x="32" y="46" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-weight="700" fill="#f8e9cf">W</text>
+  <path d="M32 4l2.2 6.4L40.6 12l-6.4 1.6L32 20l-2.2-6.4L23.4 12l6.4-1.6z" fill="#f2b53c"/>
+</svg>

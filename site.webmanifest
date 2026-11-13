@@ -1,0 +1,28 @@
+{
+  "name": "Willi's Burger — Chalon-sur-Saône",
+  "short_name": "Willi's Burger",
+  "description": "Burgers au pain maison, frites maison et sauces maison, au 33 place de Beaune à Chalon-sur-Saône.",
+  "lang": "fr",
+  "start_url": "/willis-burger-chalon/",
+  "scope": "/willis-burger-chalon/",
+  "display": "standalone",
+  "background_color": "#1b110c",
+  "theme_color": "#1b110c",
+  "icons": [
+    {
+      "src": "assets/img/logo-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/logo.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}
